@@ -13,7 +13,6 @@
 
 - 🏢 I'm a Front-End Developer
 - 👨‍💻 As a Business Administration  student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin Profile https://www.linkedin.com/in/hazem-al-melli-a0a0992a5/ to see some of the projects I've worked on.
 
