@@ -20,9 +20,9 @@
 
 ### Connect with Me :
 
-<a  href="https://www.instagram.com/hazem_almelli/" target="_blank" style="text-decoration: none; color: white;>Instagram</a> <br>
-<a href="https://www.linkedin.com/in/hazem-al-melli-a0a0992a5/" target="_blank" style="text-decoration: none; color: white;>Linkedin</a><br>
-<a href="https://www.facebook.com/hazem.almili" target="_blank" style="text-decoration: none; color: white;>Facebook</a><br>
+<a  href="https://www.instagram.com/hazem_almelli/" target="_blank" style="text-decoration: none; color: white;">Instagram</a> <br>
+<a href="https://www.linkedin.com/in/hazem-al-melli-a0a0992a5/" target="_blank" style="text-decoration: none; color: white;">Linkedin</a><br>
+<a href="https://www.facebook.com/hazem.almili" target="_blank" style="text-decoration: none; color: white;">Facebook</a><br>
 
 
 
