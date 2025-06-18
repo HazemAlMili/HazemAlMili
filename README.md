@@ -3,7 +3,6 @@
 
 <h3 align="center">
   Welcome to Hazem Al-Melli's profile!
-  
 </h3>
 
 
