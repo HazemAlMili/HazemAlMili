@@ -1,10 +1,9 @@
 # Hi, I'm Hazem Al-Mili 👋
 
-### A Passionate Web Developer from Egypt 🇪🇬
+### A Passionate Web Developer from Syria
 
-- 🔭 I’m currently working on [Project Name]
 - 🌱 I’m currently learning **Next.js 14 & AI integration**
-- ⚡ Fun fact: I love solving complex UI problems.
+- ⚡ Fun fact: I think I am Funny
 
 ---
 
