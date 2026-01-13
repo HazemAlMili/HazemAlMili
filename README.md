@@ -1,75 +1,64 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hazem%20Al-Melli&fontSize=70&animation=fadeIn" />
-</p>
-
-<h2 align="center">🚀 Frontend Developer | React & Next.js Enthusiast</h2>
-
-<p align="center">
-  <strong>Building seamless web experiences with a focus on performance and clean code.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=HAZEM%20AL-MELLI&fontSize=80&animation=fadeIn&desc=Engineering%20Digital%20Ecosystems&descAlign=50&descAlignVertical=60" />
 </p>
 
 <div align="center">
-  <a href="https://hazemalmelli.vercel.app/">🌐 Visit My Portfolio</a> |
-  <a href="https://linkedin.com/in/hazem-al-melli">💼 LinkedIn</a> |
-  <a href="mailto:hazemalmili77@gmail.com">📧 Email Me</a>
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge&logo=statuspage" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20AI%20%7C%20Macroeconomics-blue?style=for-the-badge" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 📂 System_Log: /home/hazem/about_me.txt
 
-- 🔭 **Currently Building:** High-performance Web App and scroll-linked interactive experiences.
-- 🌱 **Learning Path:** Deep diving into **Next.js 14**, Server Components, and AI-powered development with **Google Antigravity**.
-- ⚡ **Fun Fact:** I think I’m funny, but my code is very serious about bugs!
+> **"I view code as a digital economy—it needs structure, flow, and zero inflation of bugs."**
 
----
----
-
-### 🚀 Featured Projects & Challenges
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Modern Portfolio</h4>
-      <p>Focused on <b>Interactive UI</b> and smooth animations.</p>
-      <p><i>Challenge:</i> Optimizing scroll-performance to avoid frame drops.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Admin Dashboard</h4>
-      <p>A data-driven app built with <b>React & Axios</b>.</p>
-      <p><i>Challenge:</i> Debugging complex API routing and handling 404/500 errors gracefully.</p>
-    </td>
-  </tr>
-</table>
-
----
-### 🛠️ Tech Stack
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend & Tools**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+- ⚡ **The Fusion:** I bridge the gap between **Frontend Performance** and **Systemic Logic**. enables me to create dashboards that aren't only visually appealing but also analytically sound.
+- 🚀 **Core Mission:** Currently mastering the **Next.js 14** ecosystem and experimenting with **Google Antigravity** to redefine the developer experience.
+- 🛠️ **Latest Challenge:** Successfully debugged a complex 500-error deployment on Vercel by optimizing environment architecture—because every "political" system needs a stable foundation.
 
 ---
 
-### 🤝 Let's Connect!
+### 🏗️ Project Architecture (Case Studies)
 
-<p align="left">
-<a href="https://dev.to/hazem-al-melli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hazem al-melli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hazem-al-melli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem al-melli" height="30" width="40" /></a>
-<a href="https://fb.com/hazem-al-melli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazem al-melli" height="30" width="40" /></a>
-<a href="https://instagram.com/hazem-al_melli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem al_melli" height="30" width="40" /></a>
+| System | Primary Logic | The Breakthrough |
+| :--- | :--- | :--- |
+| **[Interactive Portfolio](https://hazemalmelli.vercel.app/)** | Next.js / Framer Motion | Mastered **Scroll-Linked Animations** without sacrificing DOM performance. |
+| **[Admin Dashboard](https://github.com/HazemAlMili)** | React / Axios / Charts.js | Resolved critical **404/500 API cycles** by implementing robust interceptors & state-sync. |
+| **[AI-Driven Tools]** | Google Antigravity / Next.js | Integrating AI directly into the IDE workflow for **self-healing code**. |
+
+---
+
+### 💻 Tech Stack Ecosystem
+
+#### **[Layer 0: Interface]**
+`React.js` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap`
+
+#### **[Layer 1: Engine]**
+`Node.js` `Express.js` `MongoDB` `Axios`
+
+#### **[Layer 2: Reliability]**
+`Jest (Testing)` `Git (Versioning)` `Vercel (Deployment)` `Postman (API)`
+
+---
+
+### 📈 System Vital Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemAlMili&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAlMili&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect with the Architect
+
+<p align="center">
+<a href="https://linkedin.com/in/hazem-al-melli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://hazemalmelli.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:hazemalmili77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>"Code is like a political system; it needs good architecture to function fairly."</i>
+  <i>"In a world of variables, be a constant of high quality."</i>
 </p>
