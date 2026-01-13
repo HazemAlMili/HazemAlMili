@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge&logo=statuspage" />
-  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20AI%20%7C%20Macroeconomics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20AI%20%7C%blue?style=for-the-badge" />
 </div>
 
 ---
