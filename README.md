@@ -47,15 +47,6 @@
 
 ---
 
-### 📈 GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazemAlMili&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAlMili&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 🤝 Let's Build Something Great
 
 <p align="center">
