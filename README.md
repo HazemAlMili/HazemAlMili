@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hazem%20Al-Melli&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Hazem%20Al-Melli&fontSize=70&animation=fadeIn" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Architect;React+%26+Next.js+Expert;Building+Seamless+Experiences;Problem+Solver+by+Nature" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Architect;React+%26+Next.js+specialized;Building+Seamless+Experiences;Problem+Solver+by+Nature" alt="Typing SVG" />
   </a>
 </p>
 
