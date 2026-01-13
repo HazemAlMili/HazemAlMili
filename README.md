@@ -18,10 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building:** High-performance dashboards and scroll-linked interactive experiences.
+- 🔭 **Currently Building:** High-performance Web App and scroll-linked interactive experiences.
 - 🌱 **Learning Path:** Deep diving into **Next.js 14**, Server Components, and AI-powered development with **Google Antigravity**.
-- 🎓 **Beyond Code:** I have a deep interest in **Macroeconomics** and **Political Science**, which helps me look at problems through an analytical and systemic lens.
-- ⚡ **Fun Fact:** I believe I’m funny, but my code is very serious about bugs!
+- ⚡ **Fun Fact:** I think I’m funny, but my code is very serious about bugs!
 
 ---
 
@@ -40,18 +39,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazemAlMili&show_icons=true&theme=radical&rank_icon=github" alt="Hazem's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAlMili&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
