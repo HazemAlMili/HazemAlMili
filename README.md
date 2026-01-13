@@ -1,57 +1,58 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=HAZEM%20AL-MELLI&fontSize=80&animation=fadeIn&descAlign=50&descAlignVertical=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=HAZEM%20AL-MELLI&fontSize=70&animation=fadeIn" />
+</p>
+
+<h2 align="center">🚀 Senior Frontend Developer | React & Next.js Expert</h2>
+
+<p align="center">
+  <strong>Crafting high-performance web applications with precision and modern architecture.</strong>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge&logo=statuspage" />
-  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20AI%20%7C%blue?style=for-the-badge" />
+  <a href="https://hazemalmelli.vercel.app/">🌐 Live Portfolio</a> |
+  <a href="https://linkedin.com/in/hazem-al-melli">💼 LinkedIn</a> |
+  <a href="mailto:hazemalmili77@gmail.com">📧 Professional Email</a>
 </div>
 
 ---
 
-### 📂 System_Log: /home/hazem/about_me.txt
+### 📂 Developer_Profile: /home/hazem/skills.json
 
-> **"I view code as a digital economy—it needs structure, flow, and zero inflation of bugs."**
-
-- ⚡ **The Fusion:** I bridge the gap between **Frontend Performance** and **Systemic Logic**. enables me to create dashboards that aren't only visually appealing but also analytically sound.
-- 🚀 **Core Mission:** Currently mastering the **Next.js 14** ecosystem and experimenting with **Google Antigravity** to redefine the developer experience.
-- 🛠️ **Latest Challenge:** Successfully debugged a complex 500-error deployment on Vercel by optimizing environment architecture—because every "political" system needs a stable foundation.
+- 🔭 **Current Focus:** Building scalable and interactive user interfaces using **Next.js 14** and **TypeScript**.
+- 🌱 **Innovation:** Experimenting with **Google Antigravity** to enhance the developer workflow and code efficiency.
+- ⚡ **The Goal:** Delivering seamless UX/UI by bridging the gap between design and high-performance code.
 
 ---
 
-### 🏗️ Project Architecture (Case Studies)
+### 🏗️ Featured Engineering Projects
 
-| System | Primary Logic | The Breakthrough |
+| Project | Tech Stack | Technical Breakthrough |
 | :--- | :--- | :--- |
-| **[Interactive Portfolio](https://hazemalmelli.vercel.app/)** | Next.js / Framer Motion | Mastered **Scroll-Linked Animations** without sacrificing DOM performance. |
-| **[Admin Dashboard](https://github.com/HazemAlMili)** | React / Axios / Charts.js | Resolved critical **404/500 API cycles** by implementing robust interceptors & state-sync. |
-| **[AI-Driven Tools]** | Google Antigravity / Next.js | Integrating AI directly into the IDE workflow for **self-healing code**. |
+| **[Modern Portfolio](https://hazemalmelli.vercel.app/)** | Next.js / Framer Motion | Achieved **smooth scroll-linked animations** with 0% layout shift. |
+| **[Admin Dashboard](https://github.com/HazemAlMili)** | React / Axios / State Mgmt | Optimized **API lifecycle** and handled complex 404/500 error cycles effectively. |
+| **[Deployment Systems]** | Vercel / CI-CD | Mastered **Full-stack deployment** architectures for server-side rendered apps. |
 
 ---
 
-### 💻 Tech Stack Ecosystem
+### 💻 Technical Ecosystem
 
-#### **[Layer 0: Interface]**
-`React.js` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap`
-
-#### **[Layer 1: Engine]**
-`Node.js` `Express.js` `MongoDB` `Axios`
-
-#### **[Layer 2: Reliability]**
-`Jest (Testing)` `Git (Versioning)` `Vercel (Deployment)` `Postman (API)`
+- **Frontend:** `React.js` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap`
+- **Tools & State:** `Axios` `Redux/Context API` `Framer Motion`
+- **Backend & DB:** `Node.js` `Express.js` `MongoDB.`
+- **Workflow:** `Git` `Jest` `Postman` `Vercel.`
 
 ---
 
-### 📈 System Vital Stats
+### 📈 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazemAlMili&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemAlMili&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAlMili&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🤝 Connect with the Architect
+### 🤝 Let's Build Something Great
 
 <p align="center">
 <a href="https://linkedin.com/in/hazem-al-melli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -60,5 +61,5 @@
 </p>
 
 <p align="center">
-  <i>"In a world of variables, be a constant of high quality."</i>
+  <i>"Clean code is not just written; it's engineered."</i>
 </p>
