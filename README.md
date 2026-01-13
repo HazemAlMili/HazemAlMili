@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=HAZEM%20AL-MELLI&fontSize=80&animation=fadeIn&desc=Engineering%20Digital%20&descAlign=50&descAlignVertical=60" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=HAZEM%20AL-MELLI&fontSize=80&animation=fadeIn&descAlign=50&descAlignVertical=60" />
 </p>
 
 <div align="center">
