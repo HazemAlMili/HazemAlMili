@@ -23,7 +23,26 @@
 - ⚡ **Fun Fact:** I think I’m funny, but my code is very serious about bugs!
 
 ---
+---
 
+### 🚀 Featured Projects & Challenges
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Modern Portfolio</h4>
+      <p>Focused on <b>Interactive UI</b> and smooth animations.</p>
+      <p><i>Challenge:</i> Optimizing scroll-performance to avoid frame drops.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Admin Dashboard</h4>
+      <p>A data-driven app built with <b>React & Axios</b>.</p>
+      <p><i>Challenge:</i> Debugging complex API routing and handling 404/500 errors gracefully.</p>
+    </td>
+  </tr>
+</table>
+
+---
 ### 🛠️ Tech Stack
 
 #### **Frontend**
