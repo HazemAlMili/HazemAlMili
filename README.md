@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=HAZEM%20AL-MELLI&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hazem%20Al-Melli&fontSize=70&animation=fadeIn" />
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Architect;React+%26+Next.js+Expert;Building+Seamless+Experiences;Problem+Solver+by+Nature" alt="Typing SVG" />
+  </a>
 </p>
 
 <h2 align="center">🚀 Frontend Developer | React & Next.js specialized</h2>
@@ -29,15 +33,15 @@
 | Project | Tech Stack | Technical Breakthrough |
 | :--- | :--- | :--- |
 | **[Modern Portfolio](https://hazemalmelli.vercel.app/)** | Next.js / Framer Motion | Achieved **smooth scroll-linked animations** with 0% layout shift. |
-| **[Admin Dashboard](https://github.com/HazemAlMili)** | React / Axios / State Mgmt | Optimized **API lifecycle** and handled complex 404/500 error cycles effectively. |
+| **[Admin Dashboard](https://enactus-portal.vercel.app/)** | React / Axios / State Mgmt | Optimized **API lifecycle** and handled complex 404/500 error cycles effectively. |
 | **[Deployment Systems]** | Vercel / CI-CD | Mastered **Full-stack deployment** architectures for server-side rendered apps. |
 
 ---
 
 ### 💻 Technical Ecosystem
 
-- **Frontend:** `React.js` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap`
-- **Tools & State:** `Axios` `Redux/Context API` `Framer Motion`
+- **Frontend:** `React.js` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap.`
+- **Tools & State:** `Axios`, `Redux/Context API`, `Framer Motion.`
 - **Backend & DB:** `Node.js` `Express.js` `MongoDB.`
 - **Workflow:** `Git` `Jest` `Postman` `Vercel.`
 
