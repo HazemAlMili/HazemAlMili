@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=HAZEM%20AL-MELLI&fontSize=70&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Senior Frontend Developer | React & Next.js Expert</h2>
+<h2 align="center">🚀 Frontend Developer | React & Next.js specialized</h2>
 
 <p align="center">
   <strong>Crafting high-performance web applications with precision and modern architecture.</strong>
