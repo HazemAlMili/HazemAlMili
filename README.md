@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a  href="https://www.instagram.com/hazem_almelli/" target="_blank">Instagram</a> <br>
-<a href="https://www.linkedin.com/in/hazem-al-melli-a0a0992a5/" target="_blank" >Linkedin</a><br>
+<a href="https://www.linkedin.com/in/hazem-al-melli/" target="_blank" >Linkedin</a><br>
 <a href="https://www.facebook.com/hazem.almili" target="_blank">Facebook</a><br>
 
 
