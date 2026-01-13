@@ -19,7 +19,7 @@
 ### 📂 Developer_Profile: /home/hazem/skills.json
 
 - 🔭 **Current Focus:** Building scalable and interactive user interfaces using **Next.js 14** and **TypeScript**.
-- 🌱 **Innovation:** Experimenting with **Google Antigravity** to enhance the developer workflow and code efficiency.
+- 🌱 **Innovation:** Experimenting with **AI IDEs** to enhance the developer workflow and code efficiency.
 - ⚡ **The Goal:** Delivering seamless UX/UI by bridging the gap between design and high-performance code.
 
 ---
